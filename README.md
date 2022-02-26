@@ -25,7 +25,7 @@ PEKA is an application that is intended to receive and provide social assistance
 PEKA has the main goal of being able to accommodate information on the needs of orphanages so that donors can channel donations appropriately.
 
 ## Features
-
+[![Codemagic build status](https://api.codemagic.io/apps/6218f61dba17bc37ad4d4225/6218f61dba17bc37ad4d4224/status_badge.svg)](https://codemagic.io/apps/6218f61dba17bc37ad4d4225/6218f61dba17bc37ad4d4224/latest_build)
 - Users can register orphanages and their needs
 - Search feature and area filter to make it easier for users to find the desired orphanage
 - Displays the category of orphanage needs to make it easier for donors to choose an orphanage according to the needs they want to donate
